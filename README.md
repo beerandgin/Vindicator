@@ -30,5 +30,6 @@
 * injects to other processe(s) with `different way in injection and enumerating`
 * u will get the source code of it with a cobalt strike profile, python script for the payload, and cobalt strike v4.3
 * *The final price is 150$*
+* u can contact me on my proton mail [here](JUICY01101001@protonmail.com) for more details
 
 ## i will upload a demo vd about the pro version later on ...
