@@ -31,5 +31,9 @@
 * u will get the source code of it with a cobalt strike profile, python script for the payload, and cobalt strike v4.3
 * *The final price is 150$*
 * u can contact me on my proton mail: JUICY01101001@protonmail.com for more details
+## Demo (Pro Version) :
 
-## i will upload a demo vd about the pro version later on ...
+
+https://user-images.githubusercontent.com/91303729/138223561-a0793c19-72bc-4c8b-8925-e061d830f5f9.mp4
+
+
